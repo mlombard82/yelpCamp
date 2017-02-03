@@ -5,7 +5,7 @@
 
 features
 -------
-- Yelp- like web app for Camp places. Full with User auth, CRUD functionality and RESTful for navigation. 
+- Yelp- like web app for Camp places. Full with User auth, CRUD functionality and RESTful for navigation. Data persistence on the back end with MongoDB
 
 
 technologies
